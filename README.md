@@ -19,4 +19,4 @@ jupyter notebook agenda.ipynb
 ```
 
 # Run using Google Colab
-https://colab.research.google.com/github/CLARIN-PL/NlpRest2-Tutorials/blob/master/agenta.ipynb (open in a new tab)
+https://colab.research.google.com/github/CLARIN-PL/NlpRest2-Tutorials/blob/master/agenda.ipynb
